@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "realismmod:plutonium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "realismmod:plutonium_ingot"
+  }
+}

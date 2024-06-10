@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "orange_diamond",
+  "ingredient": {
+    "item": "realismmod:block_orange_diamond"
+  },
+  "result": "realismmod:diamond_orange"
+}

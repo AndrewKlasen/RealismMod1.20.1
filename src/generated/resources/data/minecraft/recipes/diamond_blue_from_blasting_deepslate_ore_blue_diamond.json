@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 1.0,
+  "group": "blue_diamond",
+  "ingredient": {
+    "item": "realismmod:deepslate_ore_blue_diamond"
+  },
+  "result": "realismmod:diamond_blue"
+}

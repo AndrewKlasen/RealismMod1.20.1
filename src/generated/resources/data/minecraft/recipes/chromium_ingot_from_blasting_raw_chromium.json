@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 1.0,
+  "group": "chromium",
+  "ingredient": {
+    "item": "realismmod:raw_chromium"
+  },
+  "result": "realismmod:chromium_ingot"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 1.0,
+  "group": "yellow_diamond",
+  "ingredient": {
+    "item": "realismmod:deepslate_ore_yellow_diamond"
+  },
+  "result": "realismmod:diamond_yellow"
+}

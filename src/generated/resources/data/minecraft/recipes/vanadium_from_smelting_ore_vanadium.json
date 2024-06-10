@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "vanadium",
+  "ingredient": {
+    "item": "realismmod:ore_vanadium"
+  },
+  "result": "realismmod:vanadium"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "plutonium_ingot",
+  "ingredient": {
+    "item": "realismmod:raw_plutonium"
+  },
+  "result": "realismmod:plutonium_ingot"
+}

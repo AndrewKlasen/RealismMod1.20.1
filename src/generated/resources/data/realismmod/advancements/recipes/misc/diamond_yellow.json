@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "realismmod:diamond_yellow"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_yellow_diamond_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "realismmod:black_opal_block"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_yellow_diamond_block",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "realismmod:diamond_yellow"
+    ]
+  },
+  "sends_telemetry_event": false
+}

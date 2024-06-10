@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 50,
+  "experience": 1.0,
+  "group": "ruby",
+  "ingredient": {
+    "item": "realismmod:ore_ruby"
+  },
+  "result": "realismmod:ruby"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "pink_diamond",
+  "ingredient": {
+    "item": "realismmod:deepslate_ore_pink_diamond"
+  },
+  "result": "realismmod:diamond_pink"
+}
